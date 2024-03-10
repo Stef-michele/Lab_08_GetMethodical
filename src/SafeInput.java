@@ -52,7 +52,7 @@ public class SafeInput {
             }
             else {
                 trash = pipe.nextLine();
-                System.out.println("Invalid entry " + trash + ".");
+                System.out.println( "Invalid entry " + trash + ".");
             }
 
         }while (!done);
@@ -189,5 +189,10 @@ public class SafeInput {
         }
 
         System.out.println();
+    }
+    public static double CtoF(double Celsius){
+        double fahrenheitTemp;
+        fahrenheitTemp = (Celsius*9/5)+32;
+        return fahrenheitTemp;
     }
 }
