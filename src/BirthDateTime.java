@@ -9,8 +9,7 @@ public class BirthDateTime {
         int birthMinute;
 
         Scanner in = new Scanner(System.in);
-
-        birthYear = SafeInput.getRangedInt(in, "Enter your birth year", 1950,2015);
+        birthYear = SafeInput.getRangedInt(in,  "Enter your birth year", 1950,2015);
         birthMonth = SafeInput.getRangedInt(in, "Enter your birth month", 1,12);
 
         birthDay = switch (birthMonth) {

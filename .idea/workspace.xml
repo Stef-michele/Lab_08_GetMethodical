@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95cbb190-afa0-4642-b378-c1ca1b4f3e4d" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/BirthDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FavNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetUserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrettyHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reggie.java" afterDir="false" />
+    <list default="true" id="95cbb190-afa0-4642-b378-c1ca1b4f3e4d" name="Changes" comment="finished?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SafeInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SafeInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +39,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BirthDateTime.executor": "Run",
+    "Application.BirthDateTime.executor": "Debug",
     "Application.CheckOut.executor": "Run",
-    "Application.DevTest.executor": "Debug",
+    "Application.CtoFTableDisplay.executor": "Run",
+    "Application.DevTest.executor": "Run",
     "Application.FavNumbers.executor": "Run",
     "Application.GetUserName.executor": "Run",
     "Application.PrettyHeader.executor": "Run",
@@ -77,11 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1710096753042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710104773921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710104773921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finished?">
+      <option name="closed" value="true" />
+      <created>1710105797906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710105797906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="finished?" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished?" />
   </component>
 </project>
