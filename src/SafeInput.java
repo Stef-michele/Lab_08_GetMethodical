@@ -141,12 +141,19 @@ public class SafeInput {
 
         return confirmation;
     }
-    public static String getRegExString(Scanner pipe, String prompt, String regEx){
+    public static String getRegExString(Scanner pipe, String prompt, String regEx) {
+        // Check if the Scanner object is null
+        if (pipe == null) {
+            throw new IllegalArgumentException("Scanner object cannot be null");
+        }
+
+        // Print the prompt outside the loop
+        System.out.print("\n" + prompt + ": ");
+
         String input;
         do {
-            System.out.print("\n" +prompt + ": ");
             input = pipe.nextLine();
-        }while (!input.matches(regEx));
+        } while (!input.matches(regEx));
 
         return input;
     }

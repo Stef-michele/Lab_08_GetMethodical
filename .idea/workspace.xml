@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95cbb190-afa0-4642-b378-c1ca1b4f3e4d" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/BirthDateTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FavNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetUserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrettyHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reggie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SafeInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SafeInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,31 +28,31 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dVVegePZYrJTQAHHr81XDxdpX8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BirthDateTime.executor": "Run",
-    "Application.CheckOut.executor": "Run",
-    "Application.DevTest.executor": "Debug",
-    "Application.FavNumbers.executor": "Run",
-    "Application.GetUserName.executor": "Run",
-    "Application.PrettyHeader.executor": "Run",
-    "Application.Reggie.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BirthDateTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckOut.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DevTest.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FavNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetUserName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrettyHeader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reggie.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
